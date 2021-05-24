@@ -1,4 +1,4 @@
-package tw.edu.pu.o1083013.crazyshape
+package tw.edu..o1083013.cpurazyshape
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
